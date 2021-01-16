@@ -1,7 +1,7 @@
 # Python CLI TODO App
 Created as part of CoronaSafe Engineering Fellowship Programme selection process
 
-### Creating Symbolic Linking
+### Creating Symbolic Link
 
 ```
 ln -s todo.sh todo (Linux)
